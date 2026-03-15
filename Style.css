@@ -1,0 +1,23 @@
+.container {
+    margin-top: 10px;
+    opacity: 100%;
+    background-color: rgba(151, 174, 232, 0.85); 
+    padding: 15px;
+    margin-bottom: 10px;
+    width: 750px;
+    text-align: center;
+}
+
+body{
+    background-image: url(https://cdn.pixabay.com/photo/2023/02/08/08/50/frequency-wave-7776034_1280.jpg);
+    height:1250px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+
+h2{
+    text-align: center;
+}
